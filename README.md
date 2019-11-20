@@ -1,5 +1,6 @@
 <p align="center"><img src="https://cloud.4in1telecomdesignstudio.com/wl/?id=0UFlNJiIom7LQoNHPqAnIfHxASGYx0SK"></p>
 
 ### Kevin Gates Mini Music Player
-A mini music player, that plays Kevin Gates music tracks..
+A mini music player, that plays Kevin Gates music tracks.
+Kevin Gates re-design mini music player -Vuejs GitHub Snippit. 
 - [Website](https://designofcp.github.io/Kevin-Gates-mini-music-player/)

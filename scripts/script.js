@@ -61,8 +61,8 @@ new Vue({
           name: "Push It",
           artist: "Kevin Gates",
           cover: "https://images.genius.com/fa53854bae259d201fe8122924518153.600x600x1.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=dGeboa8P5OGakKQfSZqvTquhgT1iccOR",
-          url: "https://youtu.be/iYEN-HRJZY0",
+          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=IM6lFM9Me8hmcSkgPPdyWDdr3DSsO5zu",
+          url: "https://youtu.be/9knv4opomDQ",
           favorited: true
         },
         {
@@ -80,7 +80,20 @@ new Vue({
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=oOze57XOWcVqSfbFUWT5xvNIuhR82zFI",
           url: "https://youtu.be/hWQlMyY7Z5U",
           favorited: false
+        },
+        
+          {
+          name: "Told Me",
+          artist: "Kevin Gates",
+          cover: "https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/f1ederb06hkjdy7aol3m/kevin-gates-is-a-thoughtful-rapper-who-cannot-tell-a-lie.jpg",
+          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=Cpmi33zS7LH6otECjfhqmpRfcTiwJMs3",
+          url: "https://youtu.be/tO1Lhxfb-L0",
+          favorited: false
         }
+        
+        
+        
+        
       ],
       currentTrack: null,
       currentTrackIndex: 0,

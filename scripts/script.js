@@ -81,7 +81,6 @@ new Vue({
           url: "https://youtu.be/hWQlMyY7Z5U",
           favorited: false
         },
-        
           {
           name: "Told Me",
           artist: "Kevin Gates",
@@ -89,10 +88,15 @@ new Vue({
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=Cpmi33zS7LH6otECjfhqmpRfcTiwJMs3",
           url: "https://youtu.be/tO1Lhxfb-L0",
           favorited: false
+        },
+          {
+          name: "Not The Only One",
+          artist: "Kevin Gates",
+          cover: "http://dope-shit.com/wp-content/uploads/2016/04/kevin-gates.jpg",
+          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=SDmyFjGE6GThgRLHgz6yGhsWanjj6cOu",
+          url: "https://youtu.be/nKoq_oaDWEM",
+          favorited: false
         }
-        
-        
-        
         
       ],
       currentTrack: null,

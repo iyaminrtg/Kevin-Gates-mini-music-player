@@ -13,7 +13,7 @@ new Vue({
           name: "Ain't Too Hard",
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=D2CmaxtduaJ1AnaBYKT3NZWSardaqWuV",
+          source: "https://github.com/DesignofCp/Kevin-Gates-mini-music-player/blob/master/mp3/1.mp3",
           url: "https://youtu.be/FJj1MJS0BPw",
           favorited: false
         },

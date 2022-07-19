@@ -10,18 +10,18 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Ain't Too Hard",
+          name: "Cartel Swag",
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
-          source: "https://github.com/DesignofCp/Kevin-Gates-mini-music-player/blob/master/mp3/1.mp3",
-          url: "https://youtu.be/FJj1MJS0BPw",
+          source: "/mp3/cartel-swag.mp3",
+          url: "mp3/cartel-sway.mp3",
           favorited: false
         },
         {
           name: "Big Gangsta",
           artist: "Kevin Gates",
           cover: "https://images.genius.com/4ec73123a4182fe607cc7dae656ed7ca.1000x1000x1.png",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=jlRv5pO6C8NnenIowllggUqcyqmr4ZIV",
+          source: "https://github.com/DesignofCp/Kevin-Gates-mini-music-player/mp3/1.mp3",
           url: "https://youtu.be/GoGAR9wYZyU",
           favorited: true
         },

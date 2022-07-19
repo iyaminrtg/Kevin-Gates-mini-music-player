@@ -13,7 +13,7 @@ new Vue({
           name: "Cartel Swag",
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
-          source: "https://github.com/DesignofCp/Kevin-Gates-mini-music-player/blob/master/mp3/aint-too-hard.mp3",
+          source: "https://drive.google.com/file/d/1_GoU1AvyvPfq9rLu_IOn5Wgitlmwfecw/view?usp=sharing",
           url: "mp3/cartel-sway.mp3",
           favorited: false
         },

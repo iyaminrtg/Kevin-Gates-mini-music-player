@@ -42,11 +42,11 @@ new Vue({
           favorited: false
         },
         {
-          name: "Funny How",
+          name: "Get Up On My Level",
           artist: "Kevin Gates",
           cover: "https://i1.sndcdn.com/avatars-000503894535-rdpggo-t500x500.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=5FgmZQ2BW4vLAZ0exQok1fDgB04xI4vD",
-          url: "https://4in1telecommunications.com",
+          source: "/mp3/get-up-on-my-level.mp4",
+          url: "https://youtu.be/wAtP6PLnCow",
           favorited: true
         },
         {

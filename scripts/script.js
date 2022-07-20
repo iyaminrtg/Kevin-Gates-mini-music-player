@@ -14,7 +14,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
           source: "/mp3/super-gremlin.mp3",
-          url: "https://4in1telecommunications.com",
+          url: "https://www.youtube.com/watch?v=TpAVV9-CnMw",
           favorited: false
         },
         {

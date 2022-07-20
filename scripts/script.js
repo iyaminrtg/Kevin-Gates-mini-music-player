@@ -50,11 +50,11 @@ new Vue({
           favorited: true
         },
         {
-          name: "Imagine That",
+          name: "Difficult",
           artist: "Kevin Gates",
-          cover: "https://i.ytimg.com/vi/3phff_z9gVA/hqdefault.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=czUFmHfUoyq0QgYW2CZSVPbZE5eKsRQa",
-          url: "https://4in1telecommunications.com",
+          cover: "https://1.bp.blogspot.com/-WnkfLe737pg/Xxg8g_QtDvI/AAAAAAAAZWw/TSlTye5vDzQTQC8QsHJngFbLCVyWTY9bwCNcBGAsYHQ/s1280/Kevin%2BGates%2B-%2BDifficult%2B%2528Lyrics%2529.jpg",
+          source: "/mp3/difficult.mp3",
+          url: "https://youtu.be/XATUH8O75qc",
           favorited: false
         },
         {

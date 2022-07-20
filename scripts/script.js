@@ -14,7 +14,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
           source: "/mp3/super-gremlin.mp3",
-          url: "/mp3/cartel-sway.mp3",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
         {
@@ -22,7 +22,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://images.genius.com/4ec73123a4182fe607cc7dae656ed7ca.1000x1000x1.png",
           source: "/mp3/cartel-swag.mp3",
-          url: "https://youtu.be/GoGAR9wYZyU",
+          url: "https://4in1telecommunications.com",
           favorited: true
         },
         {
@@ -30,7 +30,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://cdn.wealthygorilla.com/wp-content/uploads/2016/12/57-Kevin-Gates-Quotes-About-Music-Success-Life.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=lPhnpEQkPglG9gQIJDjbDSnXBdCUateb",
-          url: "https://youtu.be/d28M6QeCZrk",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
         {
@@ -38,7 +38,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://images.genius.com/616d488e4df5441f8e2204baea3a3701.1000x1000x1.jpg",
           source: "/mp3/ainit-too-hard.mp3",
-          url: "/mp3/ainit-too-hard.mp3",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
         {
@@ -46,7 +46,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://i1.sndcdn.com/avatars-000503894535-rdpggo-t500x500.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=5FgmZQ2BW4vLAZ0exQok1fDgB04xI4vD",
-          url: "https://youtu.be/fonNFAYY1xc",
+          url: "https://4in1telecommunications.com",
           favorited: true
         },
         {
@@ -54,7 +54,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://i.ytimg.com/vi/3phff_z9gVA/hqdefault.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=czUFmHfUoyq0QgYW2CZSVPbZE5eKsRQa",
-          url: "https://youtu.be/T6KFV58Hv9E",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
         {
@@ -62,7 +62,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://images.genius.com/fa53854bae259d201fe8122924518153.600x600x1.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=IM6lFM9Me8hmcSkgPPdyWDdr3DSsO5zu",
-          url: "https://youtu.be/9knv4opomDQ",
+          url: "https://4in1telecommunications.com",
           favorited: true
         },
         {
@@ -70,7 +70,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://www.vvcradio.com/wp-content/uploads/2014/04/kevin-gates.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=6Qbx8pUoqK6iqeHMjSWOWaKrVidBIARO",
-          url: "https://youtu.be/aE4UNGlu-Ak",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
         {
@@ -78,7 +78,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://i.pinimg.com/originals/35/6a/99/356a99f69560154dc04279cc1ab2403a.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=oOze57XOWcVqSfbFUWT5xvNIuhR82zFI",
-          url: "https://youtu.be/hWQlMyY7Z5U",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
           {
@@ -86,7 +86,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/f1ederb06hkjdy7aol3m/kevin-gates-is-a-thoughtful-rapper-who-cannot-tell-a-lie.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=Cpmi33zS7LH6otECjfhqmpRfcTiwJMs3",
-          url: "https://youtu.be/tO1Lhxfb-L0",
+          url: "https://4in1telecommunications.com",
           favorited: false
         },
           {
@@ -94,7 +94,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "http://dope-shit.com/wp-content/uploads/2016/04/kevin-gates.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=SDmyFjGE6GThgRLHgz6yGhsWanjj6cOu",
-          url: "https://youtu.be/nKoq_oaDWEM",
+          url: "https://4in1telecommunications.com",
           favorited: false
         }
         

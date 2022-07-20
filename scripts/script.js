@@ -10,18 +10,18 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Cartel Swag",
+          name: "Super Gremlin",
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
-          source: "mp3/cartel-sway.mp3",
-          url: "mp3/cartel-sway.mp3",
+          source: "/mp3/super-gremlin.mp3",
+          url: "/mp3/cartel-sway.mp3",
           favorited: false
         },
         {
-          name: "Big Gangsta",
+          name: "Cartel Swag",
           artist: "Kevin Gates",
           cover: "https://images.genius.com/4ec73123a4182fe607cc7dae656ed7ca.1000x1000x1.png",
-          source: "https://github.com/DesignofCp/Kevin-Gates-mini-music-player/mp3/1.mp3",
+          source: "/mp3/cartel-swag.mp3",
           url: "https://youtu.be/GoGAR9wYZyU",
           favorited: true
         },
@@ -34,11 +34,11 @@ new Vue({
           favorited: false
         },
         {
-          name: "My Lonely",
+          name: "Anit to Hard",
           artist: "Kevin Gates",
           cover: "https://images.genius.com/616d488e4df5441f8e2204baea3a3701.1000x1000x1.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=4oJeN8rsMHTQkrpIkHXPYP32rlDrjXPr",
-          url: "https://youtu.be/ASEm1TJZduo",
+          source: "/mp3/ainit-too-hard.mp3",
+          url: "/mp3/ainit-too-hard.mp3",
           favorited: false
         },
         {

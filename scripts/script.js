@@ -37,7 +37,7 @@ new Vue({
           name: "Anit to Hard",
           artist: "Kevin Gates",
           cover: "https://images.genius.com/616d488e4df5441f8e2204baea3a3701.1000x1000x1.jpg",
-          source: "/mp3/ainit-too-hard.mp3",
+          source: "/mp3/aint-too-hard.mp3",
           url: "https://youtu.be/TH9pSwevw9Q",
           favorited: false
         },

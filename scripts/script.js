@@ -22,7 +22,7 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://images.genius.com/4ec73123a4182fe607cc7dae656ed7ca.1000x1000x1.png",
           source: "/mp3/cartel-swag.mp3",
-          url: "https://4in1telecommunications.com",
+          url: "https://youtu.be/TR7jUxBrUCw",
           favorited: true
         },
         {

@@ -44,7 +44,7 @@ new Vue({
         {
           name: "Get Up On My Level",
           artist: "Kevin Gates",
-          cover: "https://i1.sndcdn.com/avatars-000503894535-rdpggo-t500x500.jpg",
+          cover: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.audiomack.com%2Ftexas-tapes%2F7ca6d768fad34951a5f351bd2b123deb.jpeg%3Fwidth%3D520%26height%3D520%26max%3Dtrue&f=1&nofb=1",
           source: "/mp3/get-up-on-my-level.mp4",
           url: "https://youtu.be/wAtP6PLnCow",
           favorited: true

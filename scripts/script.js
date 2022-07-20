@@ -29,7 +29,7 @@ new Vue({
           name: "Find You Again",
           artist: "Kevin Gates",
           cover: "https://cdn.wealthygorilla.com/wp-content/uploads/2016/12/57-Kevin-Gates-Quotes-About-Music-Success-Life.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=lPhnpEQkPglG9gQIJDjbDSnXBdCUateb",
+          source: "/mp3/find-you-again.mp3",
           url: "https://4in1telecommunications.com",
           favorited: false
         },

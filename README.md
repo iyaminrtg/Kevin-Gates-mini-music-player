@@ -5,3 +5,7 @@
 ### Kevin Gates Mini Music Player
 A mini music player, that plays Kevin Gates music tracks. 
 Kevin Gates re-design mini music player -Vuejs GitHub Snippet.
+
+
+## Deploy on Netlify
+ [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DesignofCp/Kevin-Gates-mini-music-player)

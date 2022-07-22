@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Hard To Sleep",
+          artist: "Kevin Gates",
+          cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
+          source: "/mp3/hard-to-sleep.mp3",
+          url: "https://youtu.be/TEf108JTXC0",
+          favorited: false
+        },
+        {
           name: "Super Gremlin",
           artist: "Kevin Gates",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UMvVPNuKecFmebGKteOMGbJb2pXkxkYIxVpaYRrEKJL6y-LMuQ&s",
@@ -86,14 +94,6 @@ new Vue({
           artist: "Kevin Gates",
           cover: "https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/f1ederb06hkjdy7aol3m/kevin-gates-is-a-thoughtful-rapper-who-cannot-tell-a-lie.jpg",
           source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=Cpmi33zS7LH6otECjfhqmpRfcTiwJMs3",
-          url: "https://4in1telecommunications.com",
-          favorited: false
-        },
-          {
-          name: "Not The Only One",
-          artist: "Kevin Gates",
-          cover: "http://dope-shit.com/wp-content/uploads/2016/04/kevin-gates.jpg",
-          source: "https://cloud.4in1telecomdesignstudio.com/wl/?id=SDmyFjGE6GThgRLHgz6yGhsWanjj6cOu",
           url: "https://4in1telecommunications.com",
           favorited: false
         }
